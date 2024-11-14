@@ -142,3 +142,4 @@ dmypy.json
 .DS_Store
 
 src/cartoriosinfo/data/raw
+src/cartoriosinfo/data/raw_selenium
